@@ -2,23 +2,22 @@
 
 Software Developer with a background in capital markets policy and retail and commercial banking.
 
-## About Me 
 I'm from Nelson, New Zealand and have spent three years in London. I love a new challenge and after walking the Camino this year I decided to embark on my coding journey to help people and make a postive impact. A recent graduate of a 15 week full stack software development bootcamp with Dev Academy, I have developled quickly in data algorithms, data structures, database design, testing, and more.
 
 ## 💻 Projects 💻
 
-#### 🔢 Numbers Game 
+#### Numbers Game 
 A number learning game for my young niece which has one learning level built with JavaScript. A random number between 1-10 is generated and a corresponding image displays with audio speaking the number aloud. The user must then click the corresponding tile which displays the written number and number symbol. Currently adding extra levels with increasing difficulty with React.
 
-#### 🗺️ Meet Me in the Middle 
+#### Meet Me in the Middle 
 Early stages planning where the user can find the perfect place (park, cafe, bar, restaurant) to meet their friend in the middle of where they both live. No more one sided travelling or multiple google searches. 
 
 ### Past Projects
 
-#### 📚 Book Recs 
-Book recommendations added by friends and family! [First full stack web app with a database](https://my-fullstack-collection-zpad.onrender.com/) November 2025
+#### Book Recs 
+Book recommendations added by friends and family! [First full stack web app with a database](https://my-fullstack-collection-zpad.onrender.com/) November 2025.
 
-#### 🎭🎵 Curately - Group Project
+#### Curately - Group Project
 Users can login and curate their own lists of anything they want to consume or recommend. Books, movies, restaurants, places, musc. Users can also explore a home page to find other user lists.
 
 #### her journey into tech
