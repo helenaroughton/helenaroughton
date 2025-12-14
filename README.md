@@ -10,7 +10,7 @@ I'm from Nelson, New Zealand and have spent three years in London. I love a new 
 A number learning game for my young niece which has one learning level built with JavaScript. A random number between 1-10 is generated and a corresponding image displays with audio speaking the number aloud. The user must then click the corresponding tile which displays the written number and number symbol. Currently adding extra levels with increasing difficulty with React.
 
 #### [Meet Me in the Middle](https://github.com/helenaroughton/meet-me) 
-Early stages planning where the user can find the perfect place (park, cafe, bar, restaurant) to meet their friend in the middle of where they both live. No more one sided travelling or multiple google searches. 
+Early stages planning where the user can find the perfect place (park, cafe, bar, restaurant) to meet their friend in the middle of where they both live. No more one sided travelling or multiple google searches. I will use the google maps and places APIs. Initial MVP will cover walking time only to check viability of the app and logic with planned phases to follow quickly after. See the readme for work plan.
 
 ### Past Projects
 
