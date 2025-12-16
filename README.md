@@ -2,7 +2,7 @@
 
 Software Developer with a background in capital markets policy and retail and commercial banking.
 
-I'm from Nelson, New Zealand and have spent three years in London. I love a new challenge and after walking the Camino this year I decided to embark on my coding journey to help people and make a postive impact. A recent graduate of a 15 week full stack software development bootcamp with Dev Academy, I have developled quickly in data algorithms, data structures, database design, testing, and more.
+I'm from Nelson, New Zealand and have spent three years in London. I love a new challenge and after walking the Camino this year I decided to embark on my coding journey to help people and make a postive impact. A recent graduate of a 15 week full stack software development bootcamp with Dev Academy, I have developled skills quickly in data algorithms, data structures, database design, testing, and more.
 
 I joined GitHub in July, created my first HTML website in August [her journey into tech](https://helenaroughton.github.io/), and by December I built full stack websites with a database, [Book Recs](https://my-fullstack-collection-zpad.onrender.com/), used authentication, integrated APIs, testing, and worked with AI.
 
@@ -35,7 +35,7 @@ Book recommendations added by friends and family! First full stack web app with 
 #### [her journey into tech](https://helenaroughton.github.io/)
 My first html + CSS website (September 2025) with some technical blogs about my learning journey as well as more personal blogs about me. This showcases where I started and highlights my values and where I get my drive. 
 
-#### Curately - Group Project
+#### Curately - [Final Group Project Presentation](https://www.youtube.com/watch?v=1-xb2Gw1pV0)
 Users can login and curate their own lists of anything they want to consume or recommend. Books, movies, restaurants, places, musc. Users can also explore a home page to find other user lists.
 
 ## 🛠️ Tech Stack 🛠️
