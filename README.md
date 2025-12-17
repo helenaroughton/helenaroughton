@@ -4,7 +4,7 @@ Software Developer with a background in capital markets policy and retail and co
 
 I'm from Nelson, New Zealand and have spent three years in London. I love a new challenge and after walking the Camino this year I decided to embark on my coding journey to help people and make a postive impact. A recent graduate of a 15 week full stack software development bootcamp with Dev Academy, I have developled skills quickly in data algorithms, data structures, database design, testing, and more.
 
-I joined GitHub in July, created my first HTML website in August [her journey into tech](https://helenaroughton.github.io/), and by December I built full stack websites with a database, [Book Recs](https://my-fullstack-collection-zpad.onrender.com/), used authentication, integrated APIs, testing, and worked with AI.
+I joined GitHub in July, created my first HTML website in August [her journey into tech](https://helenaroughton.github.io/), and by December I built full stack websites with a database, [Book Recs](https://my-fullstack-collection-zpad.onrender.com/), used authentication, integrated APIs, testing, and worked with AI. My final group [presentation](https://www.youtube.com/watch?v=1-xb2Gw1pV0) showcases these skills and great collaboration. 
 
 ## 💻 Projects and Learnings 💻
 
